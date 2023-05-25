@@ -23,6 +23,7 @@ namespace _2023._05._25
             this.magassag = magassag;
         }
 
+        
         public string Nev { get => nev; }
         public string Elso { get => elso; }
         public string Utolso { get => utolso;  }
@@ -37,3 +38,7 @@ namespace _2023._05._25
 
     }
 }
+
+
+
+
